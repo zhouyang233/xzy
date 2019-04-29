@@ -2,8 +2,9 @@ body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legen
 a{color: #888;text-decoration: none;} a:hover{color: #f5004b;text-decoration: none}
 .my-box01 {
 
-    width: 990px !important;
+    width: 980px !important;
     margin:0px auto;
+
 }
 .preview{display:none;}
 #fxtc{margin-right:30px;margin-top:40px!important;}
